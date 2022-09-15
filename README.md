@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arefe Faskhoudi
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning machine learning and working on models.
 - 📫 How to reach me 
 - Email: arefefaskhoudi@gmail.com
 
